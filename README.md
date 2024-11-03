@@ -13,6 +13,6 @@ This repository contains data about GitHub users in Delhi with over 100 follower
 ## Data Collection
 
 - Data collected using GitHub API
-- Date of collection: 2024-11-31
+- Date of collection: 2024-10-31
 - Only included users with 100+ followers
 - Up to 500 most recently pushed repositories per user
