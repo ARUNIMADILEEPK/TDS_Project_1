@@ -4,6 +4,11 @@
 
 This repository contains data about GitHub users in Delhi with over 100 followers and their repositories.
 
+- This project uses Python and the GitHub API to gather data on GitHub users in Delhi with over 100 followers, including their profiles and repositories.
+- A surprising discovery was the high number of Delhi-based developers focused on full-stack development and open-source contributions.
+- Developers can enhance visibility by creating detailed README files and regularly updating their repositories to attract more engagement and followers.
+
+
 ## Files
 
 1. `users.csv`: Contains information about 422 GitHub users in Delhi with over 100 followers
